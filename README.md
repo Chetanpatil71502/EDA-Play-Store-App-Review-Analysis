@@ -1,13 +1,13 @@
-# 📊 Play Store App Review Analysis (EDA)
+# Play Store App Review Analysis (EDA)
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing Google Play Store app data along with user reviews to understand the key factors that influence app success, user engagement, and overall performance.
 
 The goal is to extract meaningful insights from the data that can help developers and businesses make better decisions.
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 The main objective is to analyze app-related data and user feedback to identify:
 - What makes an app successful
 - Factors affecting installs and ratings
@@ -16,7 +16,7 @@ The main objective is to analyze app-related data and user feedback to identify:
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 ### 1. Play Store Data
 Contains app details such as:
@@ -38,7 +38,7 @@ Contains:
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+## Data Cleaning & Preprocessing
 - Removed duplicate values
 - Handled missing values using median/mode
 - Converted columns like Installs, Price, and Size into numeric format
@@ -47,7 +47,7 @@ Contains:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 The following types of analysis were performed:
 
@@ -63,7 +63,7 @@ The following types of analysis were performed:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Free apps dominate the Play Store and have higher installs
 - Most apps have ratings between 4 and 4.5
@@ -74,7 +74,7 @@ The following types of analysis were performed:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Focus on freemium model (free + ads/in-app purchases)
 - Improve user experience to maintain high ratings
@@ -84,7 +84,7 @@ The following types of analysis were performed:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Dataset may not be fully up-to-date
 - Ratings may be biased (users mostly rate when satisfied)
@@ -93,7 +93,7 @@ The following types of analysis were performed:
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 
 - Build a recommendation system for apps
 - Perform advanced sentiment analysis (NLP)
@@ -102,7 +102,7 @@ The following types of analysis were performed:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 - Python
 - Pandas
@@ -112,6 +112,6 @@ The following types of analysis were performed:
 
 ---
 
-## 📈 Conclusion
+## Conclusion
 
 The project shows that app success depends on multiple factors such as user engagement, reviews, pricing strategy, and overall user experience. Data-driven insights can help developers improve their apps and compete effectively in the market.
